@@ -1,4 +1,3 @@
-var fbHandler = require('../controllers/fbbotcontroller').handler
 
 /*
  * GET home page.
