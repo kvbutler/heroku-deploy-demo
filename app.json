@@ -8,9 +8,9 @@
     "chatbot",
     "demo"
   ],
-  "website": "https://github.com/kvbutler/chat-bot-demo",
-  "repository": "https://github.com/kvbutler/chat-bot-demo",
-  "logo": "https://s18.postimg.org/gizepuejt/robot_design.png",
+  "website": "https://github.com/kvbutler/heroku-deploy-demo",
+  "repository": "https://github.com/kvbutler/heroku-deploy-demo",
+  "logo": "https://www.herokucdn.com/deploy/button.svg",
   "success_url": "/chat",
   "image": "heroku/nodejs",
   "scripts": {
