@@ -1,0 +1,19 @@
+{
+  "name": "Chat Bot Demo",
+  "description": "Chat Bot Demo - TCM 12",
+  "keywords": [
+    "node",
+    "express",
+    "bot",
+    "chatbot",
+    "demo"
+  ],
+  "website": "https://github.com/kvbutler/chat-bot-demo",
+  "repository": "https://github.com/kvbutler/chat-bot-demo",
+  "logo": "https://s18.postimg.org/gizepuejt/robot_design.png",
+  "success_url": "/chat",
+  "image": "heroku/nodejs",
+  "scripts": {
+    "postdeploy": "npm install"
+  }
+}
